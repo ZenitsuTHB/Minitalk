@@ -1,0 +1,11 @@
+This
+file
+displays
+its
+content
+in
+a
+single
+column
+of
+words
